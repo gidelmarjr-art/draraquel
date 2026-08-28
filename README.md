@@ -1,11 +1,7 @@
 # 🩺 Dra. Raquel Sousa | Cuidado Domiciliar
 
 > Landing page profissional desenvolvida para serviços de medicina de família e cuidados paliativos domiciliares, unindo competência técnica e escuta humana.
-
-<div align="center">
-  <img src="./caminho-para-sua-imagem/print-home.png" alt="Preview do Projeto" width="100%">
-</div>
-
+> 
 ---
 
 ## 🚀 Sobre o Projeto
