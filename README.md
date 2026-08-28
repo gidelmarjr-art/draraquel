@@ -1,75 +1,37 @@
-# Landing page — Dra. Raquel C. de Sousa
+# 🩺 Dra. Raquel Sousa | Cuidado Domiciliar
 
-Landing page institucional em React + Vite para a Dra. Raquel C. de Sousa, médica de
-família e paliativista com consulta domiciliar em Rio Preto/SP.
+> Landing page profissional desenvolvida para serviços de medicina de família e cuidados paliativos domiciliares, unindo competência técnica e escuta humana.
 
-## Estrutura
+<div align="center">
+  <img src="./caminho-para-sua-imagem/print-home.png" alt="Preview do Projeto" width="100%">
+</div>
 
-```
-dra-raquel-landing/
-├── index.html
-├── package.json
-├── vite.config.js
-└── src/
-    ├── main.jsx              # ponto de entrada
-    ├── App.jsx                # monta as seções da página
-    ├── index.css              # todo o design system (cores, tipografia, animações)
-    ├── assets/
-    │   ├── hero-portrait.jpg
-    │   └── about-portrait.jpg
-    ├── data/
-    │   └── content.js         # todo o texto, links e dados editáveis do site
-    ├── hooks/
-    │   └── useReveal.js       # hook de animação ao rolar a página
-    └── components/
-        ├── Navbar.jsx
-        ├── MobileMenu.jsx
-        ├── Hero.jsx
-        ├── Particles.jsx
-        ├── Marquee.jsx
-        ├── About.jsx
-        ├── Services.jsx
-        ├── HowItWorks.jsx
-        ├── Philosophy.jsx
-        ├── Attendance.jsx
-        ├── CTAFinal.jsx
-        ├── Footer.jsx
-        └── Reveal.jsx          # wrapper de animação reutilizável
-```
+---
 
-## Como rodar
+## 🚀 Sobre o Projeto
+Esta aplicação web foi criada com o objetivo de apresentar os serviços médicos especializados da Dra. Raquel Sousa de forma clara, humanizada e acessível. O site conta com seções informativas sobre a metodologia de atendimento, o funcionamento do cuidado domiciliar, sessões de contato direto e um design responsivo e refinado.
 
-```bash
-npm install
-npm run dev
-```
+- **Deploy Online:** [Acessar Projeto na Vercel](https://draraquel-three.vercel.app/)
 
-Abre em `http://localhost:5173`.
+---
 
-Para gerar a versão de produção:
+## ✨ Funcionalidades
+- **Design Responsivo:** Adaptado com fluidez para diferentes tamanhos de tela (desktop, tablets e smartphones).
+- **Identidade Visual Sofisticada:** Paleta de cores em tons terrosos/escuros com detalhes em dourado para transmitir seriedade e acolhimento.
+- **Seções Estruturadas:** 
+  - *Sobre* a profissional (CRM e RQE em destaque).
+  - *Cuidados* e especialidades.
+  - *Como funciona* o acompanhamento domiciliar.
+  - *Atendimento* e canais de *Contato / Agendamento*.
 
-```bash
-npm run build
-npm run preview
-```
+---
 
-## O que ajustar antes de publicar
+## 🛠️ Tecnologias Utilizadas
+- **React** (com Framework moderno)
+- **CSS Modules / Tailwind CSS** (ou estilização componentizada)
+- **Vercel** (Hospedagem e CI/CD)
 
-1. **WhatsApp**: em `src/data/content.js`, troque `WHATSAPP_NUMBER` pelo número real
-   (formato `55DDXXXXXXXXX`, sem espaços ou símbolos).
-2. **Fotos**: as imagens em `src/assets/` foram recortadas a partir de prints do
-   Instagram. Se houver os arquivos originais em alta resolução, substitua os dois
-   arquivos mantendo o mesmo nome.
-3. **Textos**: todo o conteúdo (serviços, etapas, cidade, CRM/RQE) está centralizado em
-   `src/data/content.js` — não precisa mexer nos componentes para editar texto.
+---
 
-## Identidade visual
-
-- Paleta: espresso (`#1c130f`), nogueira (`#3a2a1f`), dourado (`#c9a860`), creme
-  (`#f4ead9`), terracota (`#b06a45`) — inspirada na identidade já usada no Instagram
-  @draraquelcs.
-- Tipografia: Fraunces (títulos), Cormorant Garamond itálico (destaques), Mrs Saint
-  Delafield (assinatura/citações), Inter (corpo de texto).
-- Elemento de assinatura: a foto do hero fica dentro de uma moldura em arco (formato de
-  porta), que se abre com animação ao carregar a página — referência direta ao
-  diferencial da consulta domiciliar.
+## 💡 Status do Projeto
+- **Status:** Concluído / Em melhorias contínuas.
