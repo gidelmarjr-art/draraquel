@@ -39,7 +39,7 @@ export const SERVICES = [
   {
     icon: Stethoscope,
     title: "Medicina de família",
-    text: "Acompanhamento contínuo da sua saúde e da sua família, olhando para a pessoa como um todo — não só para a doença do momento.",
+    text: "Acompanhamento contínuo da sua saúde e da sua família, olhando para a pessoa como um todo não só para a doença do momento.",
   },
   {
     icon: HeartHandshake,
@@ -49,7 +49,7 @@ export const SERVICES = [
   {
     icon: Home,
     title: "Consulta domiciliar",
-    text: "Atendimento no ambiente mais familiar possível — sem deslocamento, sem sala de espera, com toda a atenção que a casa permite.",
+    text: "Atendimento no ambiente mais familiar possível sem deslocamento, sem sala de espera, com toda a atenção que a casa permite.",
   },
   {
     icon: Users,

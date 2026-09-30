@@ -17,7 +17,7 @@ export default function Footer() {
         <Instagram size={20} />
       </a>
       <p className="footer-note">
-        Site institucional — não substitui atendimento de urgência ou emergência médica.
+        Site institucional não substitui atendimento de urgência ou emergência médica.
       </p>
     </footer>
   );

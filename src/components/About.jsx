@@ -18,7 +18,7 @@ export default function About() {
           <p>
             Sou médica de família e paliativista, e levo a consulta até onde o cuidado faz mais
             sentido: a sua casa. Acredito em uma medicina que orienta com clareza, acolhe com
-            presença e caminha ao lado da família em cada etapa — do acompanhamento de rotina aos
+            presença e caminha ao lado da família em cada etapa do acompanhamento de rotina aos
             momentos mais delicados da vida.
           </p>
           <p>

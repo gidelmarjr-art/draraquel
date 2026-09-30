@@ -31,7 +31,7 @@ export default function Attendance() {
             <MapPin size={24} />
           </div>
           <h3>{DOCTOR.city}</h3>
-          <p>Atendimento domiciliar na cidade e região — consulte disponibilidade pelo WhatsApp.</p>
+          <p>Atendimento domiciliar na cidade e região. Consulte disponibilidade pelo WhatsApp.</p>
         </Reveal>
       </div>
     </section>
