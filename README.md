@@ -1,33 +1,41 @@
-# 🩺 Dra. Raquel Sousa | Cuidado Domiciliar
+# 🩺 Dra. Raquel Sousa — Cuidado Domiciliar
 
-> Landing page profissional desenvolvida para serviços de medicina de família e cuidados paliativos domiciliares, unindo competência técnica e escuta humana.
-> 
----
-
-## 🚀 Sobre o Projeto
-Esta aplicação web foi criada com o objetivo de apresentar os serviços médicos especializados da Dra. Raquel Sousa de forma clara, humanizada e acessível. O site conta com seções informativas sobre a metodologia de atendimento, o funcionamento do cuidado domiciliar, sessões de contato direto e um design responsivo e refinado.
-
-- **Deploy Online:** [Acessar Projeto na Vercel](https://draraquel-three.vercel.app/)
+Landing page profissional desenvolvida para serviços de medicina de família e cuidados paliativos domiciliares, unindo competência técnica, escuta humana e acolhimento.
 
 ---
 
-## ✨ Funcionalidades
-- **Design Responsivo:** Adaptado com fluidez para diferentes tamanhos de tela (desktop, tablets e smartphones).
-- **Identidade Visual Sofisticada:** Paleta de cores em tons terrosos/escuros com detalhes em dourado para transmitir seriedade e acolhimento.
-- **Seções Estruturadas:** 
-  - *Sobre* a profissional (CRM e RQE em destaque).
-  - *Cuidados* e especialidades.
-  - *Como funciona* o acompanhamento domiciliar.
-  - *Atendimento* e canais de *Contato / Agendamento*.
+## 📸 Demonstração do Projeto
+
+<div align="center">
+  <img src="draraquel.png" alt="Dra. Raquel Sousa Cuidado Domiciliar Preview" width="100%" />
+</div>
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
-- **React** (com Framework moderno)
-- **CSS Modules / Tailwind CSS** (ou estilização componentizada)
-- **Vercel** (Hospedagem e CI/CD)
+## 🚀 Tecnologias Utilizadas
+
+Este projeto foi construído utilizando tecnologias modernas do ecossistema front-end:
+
+* **Framework/Biblioteca:** React, Vite, JavaScript / TypeScript
+* **Estilização:** Tailwind CSS / CSS Modules (com identidade visual sofisticada em tons terrosos/escuros e detalhes em dourado)
+* **Hospedagem & Deploy:** Vercel
 
 ---
 
-## 💡 Status do Projeto
-- **Status:** Concluído / Em melhorias contínuas.
+## ⚙️ Principais Funcionalidades
+
+* **Design Responsivo:** Layout adaptado com fluidez para diferentes tamanhos de tela (computadores, tablets e smartphones).
+* **Identidade Visual Sofisticada:** Paleta de cores planejada para transmitir seriedade, respeito profissional e acolhimento.
+* **Apresentação Profissional & Registros:** Seções estruturadas destacando o CRM, RQE, especialidades e a filosofia de atendimento humanizado.
+* **Informações de Cuidado Domiciliar:** Detalhamento claro sobre o funcionamento do acompanhamento médico em casa.
+* **Contato e Agendamento Direto:** Canais integrados na interface para facilitar o contato direto com a profissional.
+
+---
+
+## ⚙️ Como Executar o Projeto Localmente
+
+Certifique-se de ter o [Node.js](https://nodejs.org/) instalado em sua máquina.
+
+1. **Clone o repositório:**
+   ```bash
+   git clone [https://github.com/gidelmarjr-art/dra-raquel-sousa.git](https://github.com/gidelmarjr-art/dra-raquel-sousa.git)
