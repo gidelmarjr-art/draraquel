@@ -29,13 +29,3 @@ Este projeto foi construído utilizando tecnologias modernas do ecossistema fron
 * **Apresentação Profissional & Registros:** Seções estruturadas destacando o CRM, RQE, especialidades e a filosofia de atendimento humanizado.
 * **Informações de Cuidado Domiciliar:** Detalhamento claro sobre o funcionamento do acompanhamento médico em casa.
 * **Contato e Agendamento Direto:** Canais integrados na interface para facilitar o contato direto com a profissional.
-
----
-
-## ⚙️ Como Executar o Projeto Localmente
-
-Certifique-se de ter o [Node.js](https://nodejs.org/) instalado em sua máquina.
-
-1. **Clone o repositório:**
-   ```bash
-   git clone [https://github.com/gidelmarjr-art/dra-raquel-sousa.git](https://github.com/gidelmarjr-art/dra-raquel-sousa.git)
