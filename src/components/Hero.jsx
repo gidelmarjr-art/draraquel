@@ -37,10 +37,10 @@ export default function Hero() {
             Cuidado domiciliar em Rio Preto/SP
           </span>
           <h1>
-            Medicina de família e cuidado <span className="accent">paliativo</span>, na sua casa.
+            Medicina de Família e Cuidado <span className="accent">Paliativo</span>, na sua casa.
           </h1>
           <p className="lede">
-            Acompanhamento médico que une competência técnica e escuta humana para você e para
+            Acompanhamento Médico que une competência técnica e escuta humana para você e para
             quem você ama, no conforto do lar.
           </p>
           <div className="hero-ctas">
