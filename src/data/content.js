@@ -38,22 +38,22 @@ export const NAV_LINKS = [
 export const SERVICES = [
   {
     icon: Stethoscope,
-    title: "Medicina de família",
+    title: "Medicina de Família",
     text: "Acompanhamento contínuo da sua saúde e da sua família, olhando para a pessoa como um todo não só para a doença do momento.",
   },
   {
     icon: HeartHandshake,
-    title: "Cuidado paliativo",
+    title: "Cuidado Paliativo",
     text: "Suporte médico e emocional para quem enfrenta doenças graves, com foco em conforto, dignidade e qualidade de vida.",
   },
   {
     icon: Home,
-    title: "Consulta domiciliar",
+    title: "Consulta Domiciliar",
     text: "Atendimento no ambiente mais familiar possível sem deslocamento, sem sala de espera, com toda a atenção que a casa permite.",
   },
   {
     icon: Users,
-    title: "Orientação à família",
+    title: "Orientação à Família",
     text: "Conversas claras sobre diagnóstico, tratamento e cuidados, para que a família decida com informação e tranquilidade.",
   },
 ];
@@ -71,7 +71,7 @@ export const STEPS = [
   },
   {
     icon: Home,
-    title: "Visita domiciliar",
+    title: "Visita Domiciliar",
     text: "Vou até você, no dia e horário combinados, com toda a estrutura necessária.",
   },
   {
